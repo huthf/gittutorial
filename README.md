@@ -13,3 +13,4 @@ Example Repository for Introductory **Git** Training (Recipe)
 for code in multiple_lines:
   print("three back-ticks")
 ```
+<!-- HTML comment -->
