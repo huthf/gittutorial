@@ -4,6 +4,7 @@
 - onions
 - salt
 - pepper
+- tomatos
 
 Put into a bowl and mix.
 
