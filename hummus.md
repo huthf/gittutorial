@@ -4,5 +4,6 @@
 - tahini
 - olive oil
 - paprika powder
+- pepper
 - salt
 - lemon!!!
