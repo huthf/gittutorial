@@ -1,13 +1,20 @@
 # A Recipe for Guacamole
 
+## Ingredients
+
 - avocados
 - onions
 - salt
 - pepper
 - tomatos
 
-Put into a bowl and mix.
-Make sure to enjoy!
+## Instructions
+
+- chop onion and tomatoes
+- cut open avocado and remove stone
+- scoop out flesh
+- Put into a bowl and mix.
+- Make sure to enjoy!
 
 Example Repository for Introductory **Git** Training (Recipe)
 
