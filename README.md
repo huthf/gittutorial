@@ -1,2 +1,2 @@
-# gittutorial
-Repository for Introductory Git Training (Recipe)
+# A Recipe for Guacamole
+Example Repository for Introductory **Git** Training (Recipe)
