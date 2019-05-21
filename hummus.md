@@ -3,3 +3,6 @@
 - chickpeas
 - tahini
 - olive oil
+- paprika powder
+- salt
+- lemon!!!
