@@ -1,4 +1,4 @@
-# A Recipe for Hummus
+# A Recipe for Hummus <!--and an html comment-->
 
 Enjoy the recipe!
 
