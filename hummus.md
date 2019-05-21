@@ -1,5 +1,7 @@
 # A Recipe for Hummus
 
+Enjoy the recipe!
+
 - chickpeas
 - tahini
 - olive oil

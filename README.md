@@ -7,6 +7,7 @@
 - tomatos
 
 Put into a bowl and mix.
+Make sure to enjoy!
 
 Example Repository for Introductory **Git** Training (Recipe)
 
