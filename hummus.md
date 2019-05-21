@@ -1,11 +1,12 @@
 # A Recipe for Hummus
 
-Enjoy the recipe!
+Enjoy the recipe
+Okay...
 
 - chickpeas
 - tahini
 - olive oil
-- paprika powder
+- ~~paprika powder~~
 - pepper
 - salt
 - lemon!!!
